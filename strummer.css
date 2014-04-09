@@ -35,7 +35,7 @@ body{
 }
 
 .control:hover{
-    background-color: #ff6600;
+    border-color: #ff6600;
 }
 
 .header{
