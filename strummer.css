@@ -16,46 +16,55 @@ limitations under the License.
 /* 
     Created on : Apr 8, 2014, 10:50:24 PM
     Author     : Jason "J-Do" Hittle 
+    palette #ff6600, #153845
 */
 body{
-    background-color: black;
+    background-color: lightgray;
     font-size: 15px;
-    color: whitesmoke;
+    color: black;
 }
 
-#appName{
-    color: #FF0000;
-    font-family:sans-serif; 
-    font-weight: bolder;
+#logo{
+    float: right;
+    height: 24px;
+    width: 24px;
 }
 .control{
-    border: #009999 solid 2px;
-    color: #009999;
-    background-color: black;
+    border: #153845 solid 2px;
+    color: #153845;
+}
+
+.control:hover{
+    background-color: #ff6600;
 }
 
 .header{
     padding: 3px;
-    border: #FF7400 solid 2px;
+    background-image: linear-gradient(to right, gray, white);
 }
 
 .I,.IV,.V{
-    font-weight: bold;
-    background-image: linear-gradient(to right, #FF0000, black);
+    font-weight: bolder;
+    background-image: linear-gradient(to right, #ff6600, white);
 }
 
 .ii,.iii,.vi,.vii{
-    background-image: linear-gradient(to right, #009999, black);
+    font-weight: bold;
+    background-image: linear-gradient(to right, #153845, white);
 }
 
-.vii{
-    background-image: linear-gradient(to right, #00CC00, black);
+th{
+    border: black solid 2px;
 }
 
 td{
     border-radius: 10px;
-    padding: 3px;
+    border: black solid 2px;
     text-align: center;
     font-family: sans-serif;
-    border: #FF7400 solid 1px;
+    /*opacity: 0.7;*/
+}
+
+#strip{
+    opacity: 0.8;
 }
