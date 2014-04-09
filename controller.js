@@ -33,7 +33,7 @@ $(function() {
         
         $("#chords > tbody").append("<tr>");
         for (i = 0; i < chordNums.length; i++) {
-            $("#chords > tbody").append("<td class="+chordNums[i]+">" + chordNums[i] + "</td>");
+            $("#chords > tbody").append("<th class="+chordNums[i]+">" + chordNums[i] + "</th>");
         }
         $("#chords > tbody").append("</tr>");
         
