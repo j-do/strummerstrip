@@ -1,6 +1,6 @@
 A Chrome extension to quickly get the major and minor chords
 given the key and modal scale.
-
+--------------------------------------------------------------------------------
 Useful FYI:
  - Ionian = Major scale
  - Aeolian = Natural minor scale
