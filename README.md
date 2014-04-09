@@ -1,5 +1,4 @@
-A Chrome extension to quickly get the major and minor chords
-given the key and modal scale.
+Strum: A simple modal scale reference for guitarists
 --------------------------------------------------------------------------------
 Useful FYI:
  - Ionian = Major scale
