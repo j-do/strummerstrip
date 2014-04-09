@@ -1,6 +1,6 @@
 {
     "name": "Strum",
-    "description": "Simple modal scale reference.",
+    "description": "Simple modal scale reference for guitarists.",
     "manifest_version": 2,
     "minimum_chrome_version": "23",
     "version": "0.1",
