@@ -13,4 +13,4 @@ To use the extension in chrome:
  - Do the file browser dance to where you downloaded it
  - click OK
  - Click on the launch link and
- - Boom enjoy
+ - Boom...enjoy
