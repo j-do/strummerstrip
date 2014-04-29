@@ -13,3 +13,5 @@ To use the extension in chrome:
  - click OK
  - Click on the launch link and
  - Boom...enjoy
+
+Google wanted five dollars from me to upload this to the Chrome store, so I tweaked it and submitted it to Mozilla as a firefox extension...bamma.
